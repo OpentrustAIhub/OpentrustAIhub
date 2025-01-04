@@ -1,4 +1,4 @@
-Here’s a complete README file that encapsulates the vision, goals, and implementation ideas for the Where Is It? project. You can copy this directly into a repository as the starting point for your Creative Commons Zero licensed project.
+
 
 Where Is It?
 
