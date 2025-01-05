@@ -1,0 +1,25 @@
+
+
+Open-Source LiDAR and Smart Glasses Projects
+
+This is a curated list of open-source projects using LiDAR and smart glasses technology to assist visually impaired individuals. Each project is linked to its GitHub repository or website for further exploration.
+
+1. Smart Glasses for Visually Impaired
+
+This project integrates computer vision and edge inference on an ESP-CAM and ultrasonic sensors to provide real-time audio feedback for obstacle detection and navigation.
+
+2. SenseSight Smart Glasses Project
+
+SenseSight combines AI features like face recognition, voice assistance, and object detection to empower visually impaired individuals with independence and real-time support.
+
+3. Wearable Navigation Aid Using LiDAR and Raspberry Pi Zero
+
+An advanced wearable navigation device that includes LiDAR sensors, GPS, and GSM modules for real-time obstacle detection and spatial awareness.
+
+4. VIsION: Visually Impaired Smart Optical Navigation
+
+VIsION provides real-time object detection, distance sensing, and visual assistance, utilizing machine learning models to interpret scenes and objects.
+
+5. unPi Glass
+
+unPi Glass is a proof-of-concept smart glasses project built with Python on a Raspberry Pi Zero W. It incorporates laser distance sensors, ultrasonic sensors, and haptic feedback mechanisms.
